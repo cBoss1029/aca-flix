@@ -1,5 +1,50 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "vote_average": 7.5,
+      "vote_count": 1714,
+      "id": 433,
+      "video": false,
+      "media_type": "movie",
+      "title": "Mary Poppins",
+      "popularity": 12.002054,
+      "poster_path": "/oPXf92g2gjlPqduj6vRH9yvh0Yb.jpg",
+      "original_language": "en",
+      "original_title": "Mary Poppins",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "backdrop_path": "/7DbgR36Sct5gcyEAzoM8bqiTYUV.jpg",
+      "adult": false,
+      "overview": "A magical nanny employs music and adventure to help two neglected children become closer to their father.",
+      "release_date": "1964-08-27",
+      "_id": 3
+    },
+    {
+      "vote_average": 7.5,
+      "vote_count": 1714,
+      "id": 433,
+      "video": false,
+      "media_type": "movie",
+      "title": "Mary Poppins",
+      "popularity": 12.002054,
+      "poster_path": "/oPXf92g2gjlPqduj6vRH9yvh0Yb.jpg",
+      "original_language": "en",
+      "original_title": "Mary Poppins",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "backdrop_path": "/7DbgR36Sct5gcyEAzoM8bqiTYUV.jpg",
+      "adult": false,
+      "overview": "A magical nanny employs music and adventure to help two neglected children become closer to their father.",
+      "release_date": "1964-08-27",
+      "_id": 4
+    }
+  ],
   "posts": [
     {
       "id": 1,

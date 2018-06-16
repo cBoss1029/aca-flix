@@ -10,7 +10,7 @@
 * Import and use components in App.js
 * Navigation.js
 * UserProfile.js
-
+ 
 ### State
 * In state.js file
 * Create our state object with properties
